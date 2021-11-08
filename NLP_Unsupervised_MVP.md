@@ -1,4 +1,4 @@
-### Investigating the opinions regarding vaccines and mask use.
+### Investigating the opinions on Twitter regarding vaccines and mask use.
 
 Ignasi Sols Balcells
 
